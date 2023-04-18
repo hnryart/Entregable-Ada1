@@ -27,3 +27,4 @@ usar "git remote add origin https://github.com/hnryart/ENTREGABLE-ADA.git"
 tuve que
 usar "git remote set-url origin https://github.com/hnryart/ENTREGABLE-ADA.git"
 fin
+Acabo de darme cuenta que el problema anterior se me presento por que me salte un paso que no era muy claro, se debia escribir el comando "git remote remove origin"
