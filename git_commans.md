@@ -22,9 +22,12 @@ git merge: mezcla los cambios realizados en entre ramas
 
 git status: muestra el estado del repositorio, si hay cambios pendientes por addicionar o comentar
 
-(nota personal) se me presento un error que casi no puedo resolver, como clone un repositorio, al momento de subirlo a mi propio repositorio en github me saltaba un error que decia que ya estaba conectado a otro repositorio, para esto tuve que utilizar --verbose para comprobarlo y en lugar de 
+(nota personal) se me presento un error que casi no puedo resolver, como clone un repositorio, al momento de subirlo a mi propio repositorio en github me saltaba un error que decia que ya estaba conectado a otro repositorio, para esto tuve que utilizar --verbose para comprobarlo y en lugar de
 usar "git remote add origin https://github.com/hnryart/ENTREGABLE-ADA.git" 
 tuve que
 usar "git remote set-url origin https://github.com/hnryart/ENTREGABLE-ADA.git"
+
+
 fin
+
 Acabo de darme cuenta que el problema anterior se me presento por que me salte un paso que no era muy claro, se debia escribir el comando "git remote remove origin"
