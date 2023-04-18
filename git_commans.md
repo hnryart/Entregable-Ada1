@@ -18,4 +18,4 @@ git commit: confirma los cambios realizados en la rama del repositorio
 
 git push: sube los cambios confirmados del repositorio local al main
 
-git merge: mezcla los cambios realizados en entre ramas
+git merge: mezcla los cambios realizados en entre ramasgit status
